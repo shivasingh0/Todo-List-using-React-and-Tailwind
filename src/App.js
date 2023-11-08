@@ -54,6 +54,17 @@ function App() {
             Manage Your Todos
           </h1>
           <h1>Dummy todo</h1>
+          <h1>Dummy todo</h1>
+          <h1>Dummy todo</h1>
+          <h1>Dummy todo</h1>
+          <h1>Dummy todo</h1>
+          <h1>Dummy todo</h1>
+          <h1>Dummy todo</h1>
+          <h1>Dummy todo</h1>
+          <h1>Dummy todo</h1>
+          <h1>Dummy todo</h1>
+          <h1>Dummy todo</h1>
+          <h1>Dummy todo</h1>
           <div className="mb-4">
             {/* Todo form goes here */}
             <TodoForm />
